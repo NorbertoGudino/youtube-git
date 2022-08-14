@@ -2,4 +2,4 @@
 
 Hola  soy tu  amigo y docente  digital Norberto Gudiño, Bienvenidos a mi curso.
 
-Agregando mas  contenido al _README.md_
+Agregando mas contenido al _README.md_
