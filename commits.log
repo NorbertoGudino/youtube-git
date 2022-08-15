@@ -1,0 +1,91 @@
+commit a4443ead88eec364e95e9cc26477b49f38cf82be
+Author: Norberto <norbeto64@gmail.com>
+Date:   Mon Aug 15 10:54:04 2022 -0300
+
+    Agregando dos párrafos
+
+commit 9b7f0c6ef3dacc414f3a85fc9bbef1b1b9bd8fd5
+Merge: 9b378b9 1b892e4
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:46:13 2022 -0300
+
+    Resolviendo conflicto enestaciones del año y fecha de inicio
+
+commit 9b378b92f9dc976235db2c97efb3764e7821fbd1
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:34:57 2022 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 1b892e4cdf1160b3e4746253c09d4bf3fabe1c39
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:34:57 2022 -0300
+
+    Agregando las estaciones del año
+
+commit dc437df1eba53a766d42af388ff7c662b7d84734
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:30:12 2022 -0300
+
+    AGREgando las estacoiones  del año
+
+commit 60908f31633d083c4223cdfef2b79434b88fa43b
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:11:40 2022 -0300
+
+    resolviendo conflicto merge main html en el documento index.html
+
+commit 3338855127f01ee72a0b27299502ea2b6e2395cd
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 21:05:17 2022 -0300
+
+    Agregando Style.cs
+
+commit abffabba040db56da599bb8894be1b8cd941da93
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 20:45:34 2022 -0300
+
+    Agregando style.cs a index.html
+
+commit fa5b6b58dea7bbcc5e2d21dcba99ddb01660e658
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 20:37:50 2022 -0300
+
+    Agregando style.css al index.html
+
+commit bf987849662608ed621da2978d485a4bca3cf054
+Merge: 0ff8663 dc4b1fe
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 19:13:38 2022 -0300
+
+    Merge branch 'js'
+
+commit dc4b1fed82a7c7eee4d002df3e9e5f6527506f96
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 15:50:55 2022 -0300
+
+    Crando index.js
+
+commit 0ff8663534509e37e155c1a001c733bd93598286
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sun Aug 14 15:42:08 2022 -0300
+
+    Creando style.css
+
+commit 81f8391b260a52191ec841d18b86b68ef7a3e5a6
+Author: NorbertoGudino <94685348+NorbertoGudino@users.noreply.github.com>
+Date:   Sat Aug 13 12:04:14 2022 -0300
+
+    Creando licensio del Repositorio
+
+commit 4b65794b7d7fec035fe9055f2de38daab6d0ad92
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sat Aug 13 11:55:57 2022 -0300
+
+    Agregando  más contenido al README
+
+commit a8f1e18051072459ff64739adc8b2147658d63de
+Author: Norberto <norbeto64@gmail.com>
+Date:   Sat Aug 13 11:36:23 2022 -0300
+
+    Primer commit
